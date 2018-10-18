@@ -6,3 +6,6 @@ public class Compute {
 	}
 
 }
+public double computeTax(int amount)	
+{
+	return obj.
